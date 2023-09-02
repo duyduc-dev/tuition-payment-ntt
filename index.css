@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+.container {
+  background-color: green;
+  max-width: 1440px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.content {
+  background: #000;
+  height: 100%;
+  width: 100%;
+}
